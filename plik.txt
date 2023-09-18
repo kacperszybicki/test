@@ -3,3 +3,4 @@ jakis plik
 drugi commit
 trzeci commit
 kolejna zmiana
+kolejna
