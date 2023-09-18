@@ -1,3 +1,5 @@
 jakis plik
 drugi commit
 trzeci commit
+czwarty commit
+piaty commit
