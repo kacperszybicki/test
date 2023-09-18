@@ -1,2 +1,3 @@
 jakis plik
 drugi commit
+trzeci commit
